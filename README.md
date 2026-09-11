@@ -1,4 +1,4 @@
-# Folder Auto Tagger
+# Folder Auto Tagger (vibecoded)
 
 Automatically tags notes based on the folders they're in. A note inside
 `History/Medieval Europe/` gets tagged with both `#history` and
