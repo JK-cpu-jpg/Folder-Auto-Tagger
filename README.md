@@ -1,4 +1,4 @@
-# Folder Auto Tagger (vibecoded)
+# Folder Auto Tagger
 
 Automatically tags notes based on the folders they're in. A note inside
 `History/Medieval Europe/` gets tagged with both `#history` and
@@ -118,3 +118,5 @@ the note), keep the `%%folder-auto-tagger%%` marker in place so the plugin
 can still find it. If you remove the marker entirely, the plugin will treat
 the note as untagged and insert a fresh line the next time it runs — leaving
 your edited line as ordinary, unmanaged text.
+
+(Note that this plugin is entirely vibecoded, tested by me though, if you have any complaints let me know)
