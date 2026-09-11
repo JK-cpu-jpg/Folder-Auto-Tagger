@@ -1,0 +1,10 @@
+{
+  "id": "folder-auto-tagger",
+  "name": "Folder Auto Tagger",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Automatically adds tags to notes based on their folder path \u2014 nested folders add nested tags too (e.g. History/Medieval Europe \u2192 #history and #medieval-europe).",
+  "author": "You",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
